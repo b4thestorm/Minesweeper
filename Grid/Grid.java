@@ -22,7 +22,6 @@ import javax.swing.event.ChangeListener;
 //ARNOLD SANDERS
 //CMP 168 MINDSWEEPER IMPLEMENTATION
 //VIDEO FOR ARNOLDS MINESWEEPER PROJECT
-//https://www.loom.com/share/978b8c8d6a5a48ed8e2f6b52579dbcdb?sid=366603b6-48f6-4c0a-b664-875821e55941
 
 public class Grid implements ChangeListener {
 	private static final long serialVersionUID = 1L;
